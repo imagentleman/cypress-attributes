@@ -2,6 +2,10 @@
 
 Cypress command to check multiple dom attributes of an element at the same time
 
+## Installation
+
+`npm install cypress-attributes`
+
 ## Usage
 
 ```jsx
