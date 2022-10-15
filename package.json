@@ -1,0 +1,22 @@
+{
+  "name": "cypress-attributes",
+  "version": "1.0.0",
+  "description": "Cypress command to check multiple dom attributes of an element at the same time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagentleman/cypress-attributes.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imagentleman/cypress-attributes/issues"
+  },
+  "homepage": "https://github.com/imagentleman/cypress-attributes#readme"
+}
